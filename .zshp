@@ -1,0 +1,2 @@
+export PS1=%{[94m%}$%f 
+export RPS1=[%?]
